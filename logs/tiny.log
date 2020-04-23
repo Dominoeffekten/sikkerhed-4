@@ -1,0 +1,7 @@
+GET / 304 - - 237.144 ms
+GET /stylesheets/style.css 304 - - 1.983 ms
+GET /images/post.jpeg 304 - - 0.547 ms
+GET /users/register 304 - - 39.468 ms
+GET /stylesheets/style.css 304 - - 0.353 ms
+GET /users/login 304 - - 30.521 ms
+GET /stylesheets/style.css 304 - - 0.315 ms
